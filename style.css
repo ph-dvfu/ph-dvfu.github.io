@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  font-size: 12pt;
+}
+
+A:link, A:visited { 
+  text-decoration: none;
+  color: #0000dd;
+} 
+A:hover, A:active {
+  text-decoration: none;
+  color: red;
+}
