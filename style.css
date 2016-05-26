@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 
 A:link, A:visited { 
@@ -10,4 +10,10 @@ A:link, A:visited {
 A:hover, A:active {
   text-decoration: none;
   color: red;
+}
+
+.cm {
+  font-family: cursive;
+  font-size: 12pt;
+  color: #aaaaaa;
 }
